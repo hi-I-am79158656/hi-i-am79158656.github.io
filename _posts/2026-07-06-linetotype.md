@@ -2,9 +2,10 @@
 layout: post
 title: "Collected Lineto type font name list"
 date: 2026-07-06 18:00:00 +0800
-tags: [GitHub, 建站, 博客]
-categories: [技术分享]
+tags: [lineto type, font, ttf, design]
+categories: [collect font]
 ---
+<img width="573" height="855" alt="image" src="https://github.com/user-attachments/assets/d3d1164a-ab22-4cc8-a098-601a1e99a3c2" />
 
 # collected lineto type font names
 
@@ -19,33 +20,33 @@ categories: [技术分享]
 <li>AkkuratLLTT-Regular.ttf</li>	
 <li>AkkuratLLTT-Thin.ttf</li>	
 <li>AkkuratLLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>AkkuratMono	</summary><ul>
 <li>AkkuratMonoLLTT-Bold.ttf</li>	
 <li>AkkuratMonoLLTT-BoldItalic.ttf</li>	
 <li>AkkuratMonoLLTT-Italic.ttf</li>	
 <li>AkkuratMonoLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Atomgrad	</summary><ul>
 <li>AtomgradLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Autoscape VF	</summary><ul>
 <li>AutoscapeLLVar.ttf</li>	
 <li>AutoscapeRoundLLVar.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Beans	</summary><ul>
 <li>BeansLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>BIFFLL	</summary><ul>
 <li>BIFFLLTT-Astral.ttf</li>	
 <li>BIFFLLTT-Outline.ttf</li>	
 <li>BIFFLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Blankenhorn	</summary><ul>
 <li>BlankenhornLLTT-Brush.ttf</li>	
 <li>BlankenhornLLTT-Formal.ttf</li>	
 <li>BlankenhornLLTT-Script.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Bradford	</summary><ul>
 <li>BradfordLLTT-Black.ttf</li>	
 <li>BradfordLLTT-BlackItalic.ttf</li>	
@@ -61,10 +62,10 @@ categories: [技术分享]
 <li>BradfordLLTT-Medium.ttf</li>	
 <li>BradfordLLTT-MediumItalic.ttf</li>	
 <li>BradfordLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Bradford Mono	</summary><ul>
 <li>BradfordMonoLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Brauer	</summary><ul>
 <li>BrauerLLTT-Black.ttf</li>	
 <li>BrauerLLTT-BlackItalic.ttf</li>	
@@ -78,7 +79,7 @@ categories: [技术分享]
 <li>BrauerLLTT-Regular.ttf</li>	
 <li>BrauerLLTT-Thin.ttf</li>	
 <li>BrauerLLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Brown	</summary><ul>
 <li>BrownLLTT-Black.ttf</li>	
 <li>BrownLLTT-BlackItalic.ttf</li>	
@@ -92,7 +93,7 @@ categories: [技术分享]
 <li>BrownLLTT-Regular.ttf</li>	
 <li>BrownLLTT-Thin.ttf</li>	
 <li>BrownLLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Brown Cond	</summary><ul>
 <li>BrownCondLLTT-Black.ttf</li>	
 <li>BrownCondLLTT-BlackItalic.ttf</li>	
@@ -106,18 +107,18 @@ categories: [技术分享]
 <li>BrownCondLLTT-Regular.ttf</li>	
 <li>BrownCondLLTT-Thin.ttf</li>	
 <li>BrownCondLLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Brown Graphic	</summary><ul>
 <li>BrownCameoLLVIP-Regular.ttf</li>	
 <li>BrownInlineLLTT-Regular.ttf</li>	
 <li>BrownShadedLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Brown Mono	</summary><ul>
 <li>BrownMonoLLTT-Italic.ttf</li>	
 <li>BrownMonoLLTT-Light.ttf</li>	
 <li>BrownMonoLLTT-LightItalic.ttf</li>	
 <li>BrownMonoLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Brown Narrow	</summary><ul>
 <li>BrownNarrowLLTT-Black.ttf</li>	
 <li>BrownNarrowLLTT-BlackItalic.ttf</li>	
@@ -131,11 +132,11 @@ categories: [技术分享]
 <li>BrownNarrowLLTT-Regular.ttf</li>	
 <li>BrownNarrowLLTT-Thin.ttf</li>	
 <li>BrownNarrowLLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Capital	</summary><ul>
 <li>CapitalLLTT-Italic.ttf</li>	
 <li>CapitalLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Catalogue	</summary><ul>
 <li>CatalogueLLTT-Bold.ttf</li>	
 <li>CatalogueLLTT-BoldItalic.ttf</li>	
@@ -143,30 +144,30 @@ categories: [技术分享]
 <li>CatalogueLLTT-Light.ttf</li>	
 <li>CatalogueLLTT-LightItalic.ttf</li>	
 <li>CatalogueLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Champion	</summary><ul>
 <li>ChampionLLTT-Bold.ttf</li>	
 <li>ChampionLLTT-CarvedAM.ttf</li>	
 <li>ChampionLLTT-CarvedPM.ttf</li>	
 <li>ChampionLLTT-Light.ttf</li>	
 <li>ChampionLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Champion Cond	</summary><ul>
 <li>ChampionCondLLTT-Bold.ttf</li>	
 <li>ChampionCondLLTT-Light.ttf</li>	
 <li>ChampionCondLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Champion Sans	</summary><ul>
 <li>ChampionSansLLTT-Bold.ttf</li>	
 <li>ChampionSansLLTT-Light.ttf</li>	
 <li>ChampionSansLLTT-Regular.ttf</li>	
 <li>ChampionSansLLTT-Shadow.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Champion Sans Cond	</summary><ul>
 <li>ChampionSansCondLLTT-Bold.ttf</li>	
 <li>ChampionSansCondLLTT-Light.ttf</li>	
 <li>ChampionSansCondLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Circular	</summary><ul>
 <li>CircularXXTT-Black.ttf</li>	
 <li>CircularXXTT-BlackItalic.ttf</li>	
@@ -184,13 +185,13 @@ categories: [技术分享]
 <li>CircularXXTT-Regular.ttf</li>	
 <li>CircularXXTT-Thin.ttf</li>	
 <li>CircularXXTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Circular Mono	</summary><ul>
 <li>CircularXXMonoTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Cobra Var	</summary><ul>
 <li>CobraLLVar-500.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Courier Sans	</summary><ul>
 <li>CourierSansLLTT-Bold.ttf</li>	
 <li>CourierSansLLTT-BoldItalic.ttf</li>	
@@ -198,7 +199,7 @@ categories: [技术分享]
 <li>CourierSansLLTT-Light.ttf</li>	
 <li>CourierSansLLTT-LightItalic.ttf</li>	
 <li>CourierSansLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Courier Sans Mono	</summary><ul>
 <li>CourierSansMonoLLTT-Bold.ttf</li>	
 <li>CourierSansMonoLLTT-BoldItalic.ttf</li>	
@@ -206,7 +207,7 @@ categories: [技术分享]
 <li>CourierSansMonoLLTT-Light.ttf</li>	
 <li>CourierSansMonoLLTT-LightItalic.ttf</li>	
 <li>CourierSansMonoLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Cyan	</summary><ul>
 <li>CyanLLTT-Black.ttf</li>	
 <li>CyanLLTT-BlackItalic.ttf</li>	
@@ -218,7 +219,7 @@ categories: [技术分享]
 <li>CyanLLTT-Medium.ttf</li>	
 <li>CyanLLTT-MediumItalic.ttf</li>	
 <li>CyanLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Cyan Mono	</summary><ul>
 <li>CyanMonoLLTT-Italic.ttf</li>	
 <li>CyanMonoLLTT-Light.ttf</li>	
@@ -226,10 +227,10 @@ categories: [技术分享]
 <li>CyanMonoLLTT-Medium.ttf</li>	
 <li>CyanMonoLLTT-MediumItalic.ttf</li>	
 <li>CyanMonoLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>DMT Var	</summary><ul>
 <li>DMTLLVar-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Electa	</summary><ul>
 <li>ElectaLLTT-Bold.ttf</li>	
 <li>ElectaLLTT-BoldItalic.ttf</li>	
@@ -239,13 +240,13 @@ categories: [技术分享]
 <li>ElectaLLTT-Regular.ttf</li>	
 <li>ElectaLLVar-Italic.ttf</li>	
 <li>ElectaLLVar-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Excellent	</summary><ul>
 <li>ExcellentLLTT-Bold.ttf</li>	
 <li>ExcellentLLTT-BoldItalic.ttf</li>	
 <li>ExcellentLLTT-Italic.ttf</li>	
 <li>ExcellentLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Geigy	</summary><ul>
 <li>GeigyLLTT-Bld.ttf</li>	
 <li>GeigyLLTT-BldItalic.ttf</li>	
@@ -257,7 +258,7 @@ categories: [技术分享]
 <li>GeigyLLTT-Med.ttf</li>	
 <li>GeigyLLTT-MedItalic.ttf</li>	
 <li>GeigyLLTT-Reg.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Geigy Cond Duplex	</summary><ul>
 <li>GeigyLLCondDuplexTT-Bld.ttf</li>	
 <li>GeigyLLCondDuplexTT-BldItalic.ttf</li>	
@@ -269,19 +270,19 @@ categories: [技术分享]
 <li>GeigyLLCondDuplexTT-Med.ttf</li>	
 <li>GeigyLLCondDuplexTT-MedItalic.ttf</li>	
 <li>GeigyLLCondDuplexTT-Reg.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Geigy Cond Duplex Var	</summary><ul>
 <li>GeigyLLCondDuplexVar-Reg.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Geigy Duplex Var	</summary><ul>
 <li>GeigyLLDuplexVar-Reg.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Geigy Mono	</summary><ul>
 <li>GeigyLLMonoTT-Italic.ttf</li>	
 <li>GeigyLLMonoTT-Med.ttf</li>	
 <li>GeigyLLMonoTT-MedItalic.ttf</li>	
 <li>GeigyLLMonoTT-Reg.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Gravur	</summary><ul>
 <li>GravurLLTT-CondBlack.ttf</li>	
 <li>GravurLLTT-CondBlackItalic.ttf</li>	
@@ -293,7 +294,7 @@ categories: [技术分享]
 <li>GravurLLTT-CondRegular.ttf</li>	
 <li>GravurLLTT-CondThin.ttf</li>	
 <li>GravurLLTT-CondThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Grey	</summary><ul>
 <li>GreyLLTT-Bold.ttf</li>	
 <li>GreyLLTT-BoldItalic.ttf</li>	
@@ -305,16 +306,16 @@ categories: [技术分享]
 <li>GreyLLTT-Medium.ttf</li>	
 <li>GreyLLTT-MediumItalic.ttf</li>	
 <li>GreyLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Grey Mono	</summary><ul>
 <li>GreyMonoLLTT-Book.ttf</li>	
 <li>GreyMonoLLTT-BookItalic.ttf</li>	
 <li>GreyMonoLLTT-Light.ttf</li>	
 <li>GreyMonoLLTT-LightItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Heymland	</summary><ul>
 <li>HeymlandLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Home	</summary><ul>
 <li>Home Black Italic.ttf</li>	
 <li>Home Black.ttf</li>	
@@ -324,10 +325,10 @@ categories: [技术分享]
 <li>Home Book.ttf</li>	
 <li>Home Medium Italic.ttf</li>	
 <li>Home Medium.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Home Variable	</summary><ul>
 <li>HomeLLVar.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Ivory	</summary><ul>
 <li>IvoryLLTT-Bold.ttf</li>	
 <li>IvoryLLTT-BoldItalic.ttf</li>	
@@ -337,7 +338,7 @@ categories: [技术分享]
 <li>IvoryLLTT-Medium.ttf</li>	
 <li>IvoryLLTT-MediumItalic.ttf</li>	
 <li>IvoryLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Ivory Display	</summary><ul>
 <li>IvoryDisplayLLTT-Bold.ttf</li>	
 <li>IvoryDisplayLLTT-BoldItalic.ttf</li>	
@@ -347,11 +348,11 @@ categories: [技术分享]
 <li>IvoryDisplayLLTT-Medium.ttf</li>	
 <li>IvoryDisplayLLTT-MediumItalic.ttf</li>	
 <li>IvoryDisplayLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Ivory Display Var	</summary><ul>
 <li>IvoryDisplayLLVar-Italic.ttf</li>	
 <li>IvoryDisplayLLVar-Upright.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Ivory Mono	</summary><ul>
 <li>IvoryMonoLLTT-Italic.ttf</li>	
 <li>IvoryMonoLLTT-Light.ttf</li>	
@@ -359,18 +360,18 @@ categories: [技术分享]
 <li>IvoryMonoLLTT-Medium.ttf</li>	
 <li>IvoryMonoLLTT-MediumItalic.ttf</li>	
 <li>IvoryMonoLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Ivory Mono Var	</summary><ul>
 <li>IvoryMonoLLVar-Italic.ttf</li>	
 <li>IvoryMonoLLVar-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Ivory Var	</summary><ul>
 <li>IvoryLLVar-Italic.ttf</li>	
 <li>IvoryLLVar-Upright.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Jumping Jack	</summary><ul>
 <li>JumpingJackLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Kleisch	</summary><ul>
 <li>KleischLLTT-Bold.ttf</li>	
 <li>KleischLLTT-BoldItalic.ttf</li>	
@@ -384,7 +385,7 @@ categories: [技术分享]
 <li>KleischLLTT-Regular.ttf</li>	
 <li>KleischLLTT-Thin.ttf</li>	
 <li>KleischLLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Kleisch Display	</summary><ul>
 <li>KleischDisplayLLTT-Bold.ttf</li>	
 <li>KleischDisplayLLTT-BoldItalic.ttf</li>	
@@ -396,7 +397,7 @@ categories: [技术分享]
 <li>KleischDisplayLLTT-Regular.ttf</li>	
 <li>KleischDisplayLLTT-Thin.ttf</li>	
 <li>KleischDisplayLLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Kleisch Headline	</summary><ul>
 <li>KleischHeadlineLLTT-Bold.ttf</li>	
 <li>KleischHeadlineLLTT-BoldItalic.ttf</li>	
@@ -408,11 +409,11 @@ categories: [技术分享]
 <li>KleischHeadlineLLTT-Regular.ttf</li>	
 <li>KleischHeadlineLLTT-Thin.ttf</li>	
 <li>KleischHeadlineLLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Kleisch Var	</summary><ul>
 <li>KleischLLVar-Italic.ttf</li>	
 <li>KleischLLVar-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>kristall	</summary><ul>
 <li>Kristall_LL_Black.ttf</li>	
 <li>Kristall_LL_Bold.ttf</li>	
@@ -420,13 +421,13 @@ categories: [技术分享]
 <li>Kristall_LL_Medium.ttf</li>	
 <li>Kristall_LL_Regular.ttf</li>	
 <li>Kristall_LL_Ultra.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Le Corbusier	</summary><ul>
 <li>LeCorbusierLLTT-Condensed.ttf</li>	
 <li>LeCorbusierLLTT-Regular.ttf</li>	
 <li>LeCorbusierOldfaceLLTT-Cameo.ttf</li>	
 <li>LeCorbusierOldfaceLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Lettera Mono	</summary><ul>
 <li>LetteraMonoLLTT-Italic.ttf</li>	
 <li>LetteraMonoLLTT-Light.ttf</li>	
@@ -434,7 +435,7 @@ categories: [技术分享]
 <li>LetteraMonoLLTT-Medium.ttf</li>	
 <li>LetteraMonoLLTT-MediumItalic.ttf</li>	
 <li>LetteraMonoLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Lettera Text	</summary><ul>
 <li>LetteraTextLLTT-Black.ttf</li>	
 <li>LetteraTextLLTT-BlackItalic.ttf</li>	
@@ -446,10 +447,10 @@ categories: [技术分享]
 <li>LetteraTextLLTT-Medium.ttf</li>	
 <li>LetteraTextLLTT-MediumItalic.ttf</li>	
 <li>LetteraTextLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>LutzHeadline	</summary><ul>
 <li>LutzHeadlineTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Medium	</summary><ul>
 <li>MediumLLTT-Bold.ttf</li>	
 <li>MediumLLTT-BoldItalic.ttf</li>	
@@ -461,7 +462,7 @@ categories: [技术分享]
 <li>MediumLLTT-Regular.ttf</li>	
 <li>MediumLLTT-SemiBold.ttf</li>	
 <li>MediumLLTT-SemiBoldItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Moderne	</summary><ul>
 <li>ModerneLLTT-Black.ttf</li>	
 <li>ModerneLLTT-BlackItalic.ttf</li>	
@@ -477,10 +478,10 @@ categories: [技术分享]
 <li>ModerneLLTT-Medium.ttf</li>	
 <li>ModerneLLTT-MediumItalic.ttf</li>	
 <li>ModerneLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Moonbase	</summary><ul>
 <li>MoonbaseLLVar.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Numberplate	</summary><ul>
 <li>NumberplateLLTT-Austria.ttf</li>	
 <li>NumberplateLLTT-AustriaRd.ttf</li>	
@@ -498,7 +499,7 @@ categories: [技术分享]
 <li>NumberplateLLTT-LuxembourgRd.ttf</li>	
 <li>NumberplateLLTT-Switzerland.ttf</li>	
 <li>NumberplateLLTT-SwitzerlandRd.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Pirelli Var	</summary><ul>
 <li>PirelliALLVar-100.ttf</li>	
 <li>PirelliAStencilLLVar-100.ttf</li>	
@@ -506,11 +507,11 @@ categories: [技术分享]
 <li>PirelliBStencilLLVar-100.ttf</li>	
 <li>PirelliCLLVar-100.ttf</li>	
 <li>PirelliCStencilLLVar-100.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Plot	</summary><ul>
 <li>PlotLLTT-Light.ttf</li>	
 <li>PlotLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Prisma	</summary><ul>
 <li>PrismaLLTT-Carved.ttf</li>	
 <li>PrismaLLTT-CarvedAM.ttf</li>	
@@ -535,7 +536,7 @@ categories: [技术分享]
 <li>PrismaLLTT-ThreeX.ttf</li>	
 <li>PrismaLLTT-Two.ttf</li>	
 <li>PrismaLLTT-TwoX.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Prisma Text	</summary><ul>
 <li>PrismaTextLLTT-Bold.ttf</li>	
 <li>PrismaTextLLTT-BoldItalic.ttf</li>	
@@ -557,10 +558,10 @@ categories: [技术分享]
 <li>PrismaTextLowLLTT-Medium.ttf</li>	
 <li>PrismaTextLowLLTT-MediumItalic.ttf</li>	
 <li>PrismaTextLowLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Rephlex	</summary><ul>
 <li>RephlexLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Replica	</summary><ul>
 <li>ReplicaLLTT-Bold.ttf</li>	
 <li>ReplicaLLTT-BoldItalic.ttf</li>	
@@ -570,10 +571,10 @@ categories: [技术分享]
 <li>ReplicaLLTT-Light.ttf</li>	
 <li>ReplicaLLTT-LightItalic.ttf</li>	
 <li>ReplicaLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Replica_Mono	</summary><ul>
 <li>Replica_Mono_LL_TT.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Riforma	</summary><ul>
 <li>RiformaLLTT-Regular.ttf</li>	
 <li>Riforma_LL_TT_Bold.ttf</li>	
@@ -585,11 +586,11 @@ categories: [技术分享]
 <li>Riforma_LL_TT_Light_Italic.ttf</li>	
 <li>Riforma_LL_TT_Medium.ttf</li>	
 <li>Riforma_LL_TT_Medium_Italic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Riforma Mono Var	</summary><ul>
 <li>RiformaMonoLLVar-Italic.ttf</li>	
 <li>RiformaMonoLLVar.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Riforma_Mono	</summary><ul>
 <li>Riforma_Mono_LL_TT.ttf</li>	
 <li>Riforma_Mono_LL_TT_Bold.ttf</li>	
@@ -597,17 +598,17 @@ categories: [技术分享]
 <li>Riforma_Mono_LL_TT_Italic.ttf</li>	
 <li>Riforma_Mono_LL_TT_Light.ttf</li>	
 <li>Riforma_Mono_LL_TT_Light_Italic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Ruder Plakat	</summary><ul>
 <li>RuderPlakatKonturLLVar-Thin.ttf</li>	
 <li>RuderPlakatLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Ruder Plakat Maxi	</summary><ul>
 <li>RuderPlakatMaxiLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Ruder Plakat Var	
 <li>RuderPlakatLLVar-500.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Schema	</summary><ul>
 <li>Schema Black Italic.ttf</li>	
 <li>Schema Black.ttf</li>	
@@ -619,7 +620,7 @@ categories: [技术分享]
 <li>Schema Medium Italic.ttf</li>	
 <li>Schema Medium.ttf</li>	
 <li>Schema Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Simple	</summary><ul>
 <li>SimpleLLTT-Bold.ttf</li>	
 <li>SimpleLLTT-BoldOblique.ttf</li>	
@@ -627,23 +628,23 @@ categories: [技术分享]
 <li>SimpleLLTT-LightOblique.ttf</li>	
 <li>SimpleLLTT-Oblique.ttf</li>	
 <li>SimpleLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Sinaloa	</summary><ul>
 <li>SinaloaLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Sonora	</summary><ul>
 <li>SonoraLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Supermax	</summary><ul>
 <li>SupermaxLLTT-Square.ttf</li>	
 <li>SupermaxLLTT-Tall.ttf</li>	
 <li>SupermaxLLTT-Wide.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Superstudio	</summary><ul>
 <li>SuperstudioLLTT-Bold.ttf</li>	
 <li>SuperstudioLLTT-Light.ttf</li>	
 <li>SuperstudioLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Supreme	</summary><ul>
 <li>SupremeLLTT-Black.ttf</li>	
 <li>SupremeLLTT-BlackItalic.ttf</li>	
@@ -661,21 +662,21 @@ categories: [技术分享]
 <li>SupremeLLTT-Regular.ttf</li>	
 <li>SupremeLLTT-Thin.ttf</li>	
 <li>SupremeLLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Supreme Display	</summary><ul>
 <li>SupremeLLTT-Jumbo.ttf</li>	
 <li>SupremeLLTT-JumboItalic.ttf</li>	
 <li>SupremeLLVIP-Choupette.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Supremus	</summary><ul>
 <li>SupremusLLTT-A.ttf</li>	
 <li>SupremusLLTT-B.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Tabletten	</summary><ul>
 <li>TablettenschriftLLTT-AM.ttf</li>	
 <li>TablettenschriftLLTT-FILL.ttf</li>	
 <li>TablettenschriftLLTT-PM.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Thermo	</summary><ul>
 <li>ThermoTT-Alpha.ttf</li>	
 <li>ThermoTT-Beta.ttf</li>	
@@ -685,7 +686,7 @@ categories: [技术分享]
 <li>ThermoTT-Kappa.ttf</li>	
 <li>ThermoTT-Uno.ttf</li>	
 <li>ThermoTT-Zero.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Typ1451	</summary><ul>
 <li>Typ1451LLTT-Bold.ttf</li>	
 <li>Typ1451LLTT-BoldItalic.ttf</li>	
@@ -697,7 +698,7 @@ categories: [技术分享]
 <li>Typ1451LLTT-Regular.ttf</li>	
 <li>Typ1451LLTT-Thin.ttf</li>	
 <li>Typ1451LLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Unica 77 Mono	</summary><ul>
 <li>Unica77MonoLLTT-Bold.ttf</li>	
 <li>Unica77MonoLLTT-BoldItalic.ttf</li>	
@@ -715,7 +716,7 @@ categories: [技术分享]
 <li>Unica77MonoLowLLTT-Regular.ttf</li>	
 <li>Unica77MonoLowLLTT-Thin.ttf</li>	
 <li>Unica77MonoLowLLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Unica_77	</summary><ul>
 <li>Unica_77LLTT-Black.ttf</li>	
 <li>Unica_77LLTT-BlackItalic.ttf</li>	
@@ -731,7 +732,7 @@ categories: [技术分享]
 <li>Unica_77LLTT-Regular.ttf</li>	
 <li>Unica_77LLTT-Thin.ttf</li>	
 <li>Unica_77LLTT-ThinItalic.ttf</li>	
-</li></ul></details>	
+</ul></details>	
 <details open><summary>Valentine	</summary><ul>
 <li>ValentineLLTT-Bold.ttf</li>	
 <li>ValentineLLTT-BoldItalic.ttf</li>	
@@ -739,6 +740,7 @@ categories: [技术分享]
 <li>ValentineLLTT-Light.ttf</li>	
 <li>ValentineLLTT-LightItalic.ttf</li>	
 <li>ValentineLLTT-Regular.ttf</li>	
-</li></ul></details>	
+</ul></details>	
             	
+
 
