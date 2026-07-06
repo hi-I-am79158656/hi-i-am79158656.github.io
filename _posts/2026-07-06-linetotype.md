@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "collected lineto type font names"
-date: 2026-07-06 20:00:00 +0800
-categories: 技术 随笔
-tags: github 建站
+title: "Collected Lineto type font name list"
+date: 2026-07-06 18:00:00 +0800
+tags: [GitHub, 建站, 博客]
+categories: [技术分享]
 ---
 
 # collected lineto type font names
