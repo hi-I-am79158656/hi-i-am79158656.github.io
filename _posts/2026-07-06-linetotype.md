@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "GitHub Pages 发布文章完整教程"
-date: 2026-07-06 18:00:00 +0800
-tags: [GitHub, 建站, 博客]
-categories: [技术分享]
+title: "测试文章"
+date: 2026-07-06 20:00:00 +0800
 ---
 
 # collected lineto type font names
