@@ -745,7 +745,7 @@ categories: [collect font]
 <li>ValentineLLTT-LightItalic.ttf</li>	
 <li>ValentineLLTT-Regular.ttf</li>	
 </ul></details>	
-            </td>	
+</td>	
 </tr>
 </table>
 
