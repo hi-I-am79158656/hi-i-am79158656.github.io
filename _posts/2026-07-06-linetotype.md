@@ -8,7 +8,9 @@ categories: [collect font]
 <img width="573" height="855" alt="image" src="https://github.com/user-attachments/assets/d3d1164a-ab22-4cc8-a098-601a1e99a3c2" />
 
 # collected lineto type font names
-
+<table>
+ <tr>
+ <td>
 <details open><summary>Akkurat	</summary><ul>
 <li>AkkuratLLTT-Black.ttf</li>	
 <li>AkkuratLLTT-BlackItalic.ttf</li>	
@@ -369,6 +371,7 @@ categories: [collect font]
 <li>IvoryLLVar-Italic.ttf</li>	
 <li>IvoryLLVar-Upright.ttf</li>	
 </ul></details>	
+
 <details open><summary>Jumping Jack	</summary><ul>
 <li>JumpingJackLLTT-Regular.ttf</li>	
 </ul></details>	
@@ -385,7 +388,8 @@ categories: [collect font]
 <li>KleischLLTT-Regular.ttf</li>	
 <li>KleischLLTT-Thin.ttf</li>	
 <li>KleischLLTT-ThinItalic.ttf</li>	
-</ul></details>	
+</ul></details>             </td>
+             <td>	
 <details open><summary>Kleisch Display	</summary><ul>
 <li>KleischDisplayLLTT-Bold.ttf</li>	
 <li>KleischDisplayLLTT-BoldItalic.ttf</li>	
@@ -741,6 +745,7 @@ categories: [collect font]
 <li>ValentineLLTT-LightItalic.ttf</li>	
 <li>ValentineLLTT-Regular.ttf</li>	
 </ul></details>	
-            	
-
+            </td>	
+</tr>
+</table>
 
