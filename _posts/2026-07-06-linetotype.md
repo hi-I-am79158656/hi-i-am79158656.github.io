@@ -610,7 +610,7 @@ categories: [collect font]
 <details open><summary>Ruder Plakat Maxi	</summary><ul>
 <li>RuderPlakatMaxiLLTT-Regular.ttf</li>	
 </ul></details>	
-<details open><summary>Ruder Plakat Var	
+<details open><summary>Ruder Plakat Var	</summary><ul>
 <li>RuderPlakatLLVar-500.ttf</li>	
 </ul></details>	
 <details open><summary>Schema	</summary><ul>
