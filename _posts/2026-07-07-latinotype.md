@@ -7,7 +7,10 @@ categories: [collect font]
 ---
 
 # collected Latinotype font names
-
+<img width="1124" height="851" alt="image" src="https://github.com/user-attachments/assets/8223c4d2-cad5-409d-baef-a54d5787dd85" />
+<table>
+ <tr>
+ <td>
 <details open><summary>Abstract One</summary>
 <ul><li>Abstract One Black It.otf</li>
 <li>Abstract One Black.otf</li>
@@ -1232,6 +1235,8 @@ categories: [collect font]
 <li>Corporative Thin.otf</li>
 <li>Corporative.otf</li>
 </ul></details>
+</td>
+<td>
 <details open><summary>Corporative Sans</summary>
 <ul><li>Corporative Sans Alt Black Italic.otf</li>
 <li>Corporative Sans Alt Black.otf</li>
@@ -1298,6 +1303,7 @@ categories: [collect font]
 <li>Corporative Sans Thin Italic.otf</li>
 <li>Corporative Sans Thin.otf</li>
 </ul></details>
+
 <details open><summary>Corporative Sans Round Condensed</summary>
 <ul><li>CorpSansRd-BlackCnd.otf</li>
 <li>CorpSansRd-BlackCndIt.otf</li>
@@ -2346,6 +2352,8 @@ categories: [collect font]
 <li>Igna Sans UltraLight It.otf</li>
 <li>Igna Sans UltraLight.otf</li>
 </ul></details>
+</td>
+<td>
 <details open><summary>In a Jar</summary>
 <ul><li>InaJar-Italic.otf</li>
 <li>InaJar.otf</li>
@@ -3628,6 +3636,8 @@ categories: [collect font]
 <ul><li>Printa-A.otf</li>
 <li>Printa-B.otf</li>
 </ul></details>
+                                  </td>
+         <td>
 <details open><summary>Prêt-à-porter</summary>
 <ul><li>PretAPorterContrast-Bold.otf</li>
 <li>PretAPorterContrast-BoldOrna.otf</li>
@@ -4777,7 +4787,9 @@ categories: [collect font]
 <li>ZennatProTwo-Italic.otf</li>
 <li>ZennatProTwo.otf</li>
 </ul></details>
-
+</td>
+</tr>
+</table>
 
         
 
