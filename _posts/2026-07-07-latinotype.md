@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Collected Latinotype font name list"
-date: 2026-07-07 18:00:00 +0800
+date: 2026-07-07 10:00:00 +0800
 tags: [Latinotype, font, ttf, design]
 categories: [collect font]
 ---
+<img width="1124" height="851" alt="image" src="https://github.com/user-attachments/assets/8223c4d2-cad5-409d-baef-a54d5787dd85" />
 
 # collected Latinotype font names
-<img width="1124" height="851" alt="image" src="https://github.com/user-attachments/assets/8223c4d2-cad5-409d-baef-a54d5787dd85" />
 <table>
  <tr>
  <td>
