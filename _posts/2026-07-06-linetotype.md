@@ -8,6 +8,11 @@ categories: [collect font]
 <img width="573" height="855" alt="image" src="https://github.com/user-attachments/assets/d3d1164a-ab22-4cc8-a098-601a1e99a3c2" />
 
 # collected lineto type font names
+
+按键 Ctrl + F 或 Cmd + F，就可以输入文字，快速查找页面内容
+
+Note:Pressing Ctrl + F or Cmd + F allows you to input text and quickly search for content on the page.
+
 <table>
  <tr>
  <td>
