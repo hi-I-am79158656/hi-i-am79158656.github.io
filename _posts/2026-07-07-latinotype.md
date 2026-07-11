@@ -8,6 +8,11 @@ categories: [collect font]
 <img width="1124" height="851" alt="image" src="https://github.com/user-attachments/assets/8223c4d2-cad5-409d-baef-a54d5787dd85" />
 
 # collected Latinotype font names
+
+按键 Ctrl + F 或 Cmd + F，就可以输入文字，快速查找页面内容
+
+Note:Pressing Ctrl + F or Cmd + F allows you to input text and quickly search for content on the page.
+
 <table>
  <tr>
  <td>
